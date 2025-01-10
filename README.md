@@ -11,7 +11,7 @@
 
 ### ✨ Make the world better!!!!
 
-<p>Hi, 👋  I'm <a href="https://blog.1think2program.cn/" target="_blank">盧瞳 </a></p>
+<p>Hi, 👋  I'm <a href="https://www.1think2program.cn/" target="_blank">盧瞳 </a></p>
 
 This is my ToolKit, it must be your need 👉 [resource.1think2program.cn](https://resource.1think2program.cn/) 👈 || ⛏ Focus on improving personal efficiency!
 
