@@ -15,7 +15,7 @@
 
 This is my ToolKit, it must be your need 👉 [resource.1think2program.cn](https://resource.1think2program.cn/) 👈 || ⛏ Focus on improving personal efficiency!
 
-🎈 [MoJio](https://mojio.creativecc.cn/) for you to enjoy!
+🎈 [盧瞳小站](https://www.1think2program.cn/) for you to enjoy!
 
 <p><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="22" /><b> 盧瞳/ 卢瞳/ LuTOng </b> are all of my <em>CODE NAME</em></p>
 
@@ -27,7 +27,7 @@ This is my ToolKit, it must be your need 👉 [resource.1think2program.cn](https
 
 - 🏫 I’m currently a undergraduate on **<a href="https://www.tyust.edu.cn/">Taiyuan University of Science and Technology</a>**, majoring in **Intelligence Science and Technology**
 - 📫 You can get in touch with me by email at [2061360308@qq.com](mailto:2061360308@qq.com)
-- 🎈 Have a fun to [Relax](https://blog.1think2program.cn/) ! [(⊙ˍ⊙)？](https://blog.csdn.net/m0_70826521)
+- 🎈 Have a fun to [Relax](https://www.1think2program.cn/) ! [(⊙ˍ⊙)？](https://blog.csdn.net/m0_70826521)
 
 ---
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> 
