@@ -13,7 +13,7 @@
 
 <p>Hi, 👋  I'm <a href="https://www.1think2program.cn/" target="_blank">盧瞳 </a></p>
 
-This is my ToolKit, it must be your need 👉 [resource.1think2program.cn](https://resource.1think2program.cn/) 👈 || ⛏ Focus on improving personal efficiency!
+This is my ToolKit, it must be your need 👉 [res.1think2program.cn](https://res.1think2program.cn/) 👈 || ⛏ Focus on improving personal efficiency!
 
 🎈 [盧瞳小站](https://www.1think2program.cn/) for you to enjoy!
 
